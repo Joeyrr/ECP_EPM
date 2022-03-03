@@ -35,4 +35,5 @@ In order to facilitate the verification of the coding performance. The executabl
 + The `TAppEncoder_ECP.exe` is the encoder with our ECP only algorithm.
 + The `TAppEncoder_EPM.exe` is the encoder with our EPM only algorithm.
 + The `TAppEncoder_statistic.exe` is the encoder with our ECP+EPM algorithm which can also export the coding results to analysis.
+
 The coding result evaluated on our computer can be found in `CTC/results2excel` file folder.
