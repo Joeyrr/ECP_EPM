@@ -1,0 +1,495 @@
+
+3D-HTM software: Renderer Version [16.0][Windows][VS 1916][64 bit] 
+Ignoring CameraParameterFile entries for virtual view(s): 9 5 2 1 
+Interpolating camera parameters      for virtual view(s): 8 7 6 4 3 2 
+
+InputVideoFile_0        : dec_0.yuv
+InputVideoFile_1        : dec_2.yuv
+InputVideoFile_2        : dec_4.yuv
+InputDepthFile_0        : dec_1.yuv
+InputDepthFile_1        : dec_3.yuv
+InputDepthFile_2        : dec_5.yuv
+SynthOutputFile_0       : dec_synth_01.yuv
+SynthOutputFile_1       : dec_synth_02.yuv
+SynthOutputFile_2       : dec_synth_03.yuv
+SynthOutputFile_3       : dec_synth_04.yuv
+SynthOutputFile_4       : dec_synth_05.yuv
+SynthOutputFile_5       : dec_synth_06.yuv
+SynthOutputFile_6       : dec_synth_07.yuv
+SynthOutputFile_7       : dec_synth_08.yuv
+SynthOutputFile_8       : dec_synth_09.yuv
+Format                  : 1920x1088 
+Frame index             : 0 - 49 (50 frames)
+CameraParameterFile     : cam_gtfly.cfg
+BaseViewNumbers         : 5 9 1  (3 views) 
+Sweep                   : 0
+SynthViewNumbers        : 0 .25000 .50000 .75000 1 1.25000 1.50000 1.75000 2  (9 views) 
+Log2SamplingFactor      : 0
+UVUp                    : 1
+PreProcMode             : 0
+PreFilterSize           : 0
+SimEnhance              : 1
+BlendMode               : 0
+BlendZThresPerc         : 30
+BlendUseDistWeight      : 1
+BlendHoleMargin         : 6
+InterpolationMode       : 4
+HoleFillingMode         : 1
+PostProcMode            : 0
+ShiftPrecision          : 2
+TemporalDepthFilter     : 0
+RenderMode              : 0
+RendererDirection       : 0
+
+Copied    Frame 0 of View 9   (BaseView)  
+Rendering Frame 0 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 0 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 0 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 0 of View 5   (BaseView)  
+Rendering Frame 0 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 0 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 0 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 0 of View 1   (BaseView)  
+Copied    Frame 1 of View 9   (BaseView)  
+Rendering Frame 1 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 1 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 1 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 1 of View 5   (BaseView)  
+Rendering Frame 1 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 1 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 1 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 1 of View 1   (BaseView)  
+Copied    Frame 2 of View 9   (BaseView)  
+Rendering Frame 2 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 2 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 2 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 2 of View 5   (BaseView)  
+Rendering Frame 2 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 2 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 2 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 2 of View 1   (BaseView)  
+Copied    Frame 3 of View 9   (BaseView)  
+Rendering Frame 3 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 3 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 3 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 3 of View 5   (BaseView)  
+Rendering Frame 3 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 3 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 3 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 3 of View 1   (BaseView)  
+Copied    Frame 4 of View 9   (BaseView)  
+Rendering Frame 4 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 4 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 4 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 4 of View 5   (BaseView)  
+Rendering Frame 4 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 4 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 4 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 4 of View 1   (BaseView)  
+Copied    Frame 5 of View 9   (BaseView)  
+Rendering Frame 5 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 5 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 5 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 5 of View 5   (BaseView)  
+Rendering Frame 5 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 5 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 5 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 5 of View 1   (BaseView)  
+Copied    Frame 6 of View 9   (BaseView)  
+Rendering Frame 6 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 6 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 6 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 6 of View 5   (BaseView)  
+Rendering Frame 6 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 6 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 6 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 6 of View 1   (BaseView)  
+Copied    Frame 7 of View 9   (BaseView)  
+Rendering Frame 7 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 7 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 7 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 7 of View 5   (BaseView)  
+Rendering Frame 7 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 7 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 7 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 7 of View 1   (BaseView)  
+Copied    Frame 8 of View 9   (BaseView)  
+Rendering Frame 8 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 8 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 8 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 8 of View 5   (BaseView)  
+Rendering Frame 8 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 8 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 8 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 8 of View 1   (BaseView)  
+Copied    Frame 9 of View 9   (BaseView)  
+Rendering Frame 9 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 9 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 9 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 9 of View 5   (BaseView)  
+Rendering Frame 9 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 9 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 9 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 9 of View 1   (BaseView)  
+Copied    Frame 10 of View 9   (BaseView)  
+Rendering Frame 10 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 10 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 10 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 10 of View 5   (BaseView)  
+Rendering Frame 10 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 10 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 10 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 10 of View 1   (BaseView)  
+Copied    Frame 11 of View 9   (BaseView)  
+Rendering Frame 11 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 11 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 11 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 11 of View 5   (BaseView)  
+Rendering Frame 11 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 11 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 11 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 11 of View 1   (BaseView)  
+Copied    Frame 12 of View 9   (BaseView)  
+Rendering Frame 12 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 12 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 12 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 12 of View 5   (BaseView)  
+Rendering Frame 12 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 12 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 12 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 12 of View 1   (BaseView)  
+Copied    Frame 13 of View 9   (BaseView)  
+Rendering Frame 13 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 13 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 13 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 13 of View 5   (BaseView)  
+Rendering Frame 13 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 13 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 13 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 13 of View 1   (BaseView)  
+Copied    Frame 14 of View 9   (BaseView)  
+Rendering Frame 14 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 14 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 14 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 14 of View 5   (BaseView)  
+Rendering Frame 14 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 14 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 14 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 14 of View 1   (BaseView)  
+Copied    Frame 15 of View 9   (BaseView)  
+Rendering Frame 15 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 15 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 15 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 15 of View 5   (BaseView)  
+Rendering Frame 15 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 15 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 15 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 15 of View 1   (BaseView)  
+Copied    Frame 16 of View 9   (BaseView)  
+Rendering Frame 16 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 16 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 16 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 16 of View 5   (BaseView)  
+Rendering Frame 16 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 16 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 16 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 16 of View 1   (BaseView)  
+Copied    Frame 17 of View 9   (BaseView)  
+Rendering Frame 17 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 17 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 17 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 17 of View 5   (BaseView)  
+Rendering Frame 17 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 17 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 17 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 17 of View 1   (BaseView)  
+Copied    Frame 18 of View 9   (BaseView)  
+Rendering Frame 18 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 18 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 18 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 18 of View 5   (BaseView)  
+Rendering Frame 18 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 18 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 18 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 18 of View 1   (BaseView)  
+Copied    Frame 19 of View 9   (BaseView)  
+Rendering Frame 19 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 19 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 19 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 19 of View 5   (BaseView)  
+Rendering Frame 19 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 19 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 19 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 19 of View 1   (BaseView)  
+Copied    Frame 20 of View 9   (BaseView)  
+Rendering Frame 20 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 20 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 20 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 20 of View 5   (BaseView)  
+Rendering Frame 20 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 20 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 20 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 20 of View 1   (BaseView)  
+Copied    Frame 21 of View 9   (BaseView)  
+Rendering Frame 21 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 21 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 21 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 21 of View 5   (BaseView)  
+Rendering Frame 21 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 21 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 21 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 21 of View 1   (BaseView)  
+Copied    Frame 22 of View 9   (BaseView)  
+Rendering Frame 22 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 22 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 22 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 22 of View 5   (BaseView)  
+Rendering Frame 22 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 22 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 22 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 22 of View 1   (BaseView)  
+Copied    Frame 23 of View 9   (BaseView)  
+Rendering Frame 23 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 23 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 23 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 23 of View 5   (BaseView)  
+Rendering Frame 23 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 23 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 23 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 23 of View 1   (BaseView)  
+Copied    Frame 24 of View 9   (BaseView)  
+Rendering Frame 24 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 24 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 24 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 24 of View 5   (BaseView)  
+Rendering Frame 24 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 24 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 24 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 24 of View 1   (BaseView)  
+Copied    Frame 25 of View 9   (BaseView)  
+Rendering Frame 25 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 25 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 25 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 25 of View 5   (BaseView)  
+Rendering Frame 25 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 25 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 25 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 25 of View 1   (BaseView)  
+Copied    Frame 26 of View 9   (BaseView)  
+Rendering Frame 26 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 26 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 26 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 26 of View 5   (BaseView)  
+Rendering Frame 26 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 26 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 26 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 26 of View 1   (BaseView)  
+Copied    Frame 27 of View 9   (BaseView)  
+Rendering Frame 27 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 27 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 27 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 27 of View 5   (BaseView)  
+Rendering Frame 27 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 27 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 27 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 27 of View 1   (BaseView)  
+Copied    Frame 28 of View 9   (BaseView)  
+Rendering Frame 28 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 28 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 28 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 28 of View 5   (BaseView)  
+Rendering Frame 28 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 28 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 28 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 28 of View 1   (BaseView)  
+Copied    Frame 29 of View 9   (BaseView)  
+Rendering Frame 29 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 29 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 29 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 29 of View 5   (BaseView)  
+Rendering Frame 29 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 29 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 29 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 29 of View 1   (BaseView)  
+Copied    Frame 30 of View 9   (BaseView)  
+Rendering Frame 30 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 30 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 30 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 30 of View 5   (BaseView)  
+Rendering Frame 30 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 30 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 30 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 30 of View 1   (BaseView)  
+Copied    Frame 31 of View 9   (BaseView)  
+Rendering Frame 31 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 31 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 31 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 31 of View 5   (BaseView)  
+Rendering Frame 31 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 31 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 31 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 31 of View 1   (BaseView)  
+Copied    Frame 32 of View 9   (BaseView)  
+Rendering Frame 32 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 32 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 32 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 32 of View 5   (BaseView)  
+Rendering Frame 32 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 32 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 32 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 32 of View 1   (BaseView)  
+Copied    Frame 33 of View 9   (BaseView)  
+Rendering Frame 33 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 33 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 33 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 33 of View 5   (BaseView)  
+Rendering Frame 33 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 33 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 33 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 33 of View 1   (BaseView)  
+Copied    Frame 34 of View 9   (BaseView)  
+Rendering Frame 34 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 34 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 34 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 34 of View 5   (BaseView)  
+Rendering Frame 34 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 34 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 34 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 34 of View 1   (BaseView)  
+Copied    Frame 35 of View 9   (BaseView)  
+Rendering Frame 35 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 35 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 35 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 35 of View 5   (BaseView)  
+Rendering Frame 35 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 35 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 35 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 35 of View 1   (BaseView)  
+Copied    Frame 36 of View 9   (BaseView)  
+Rendering Frame 36 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 36 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 36 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 36 of View 5   (BaseView)  
+Rendering Frame 36 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 36 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 36 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 36 of View 1   (BaseView)  
+Copied    Frame 37 of View 9   (BaseView)  
+Rendering Frame 37 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 37 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 37 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 37 of View 5   (BaseView)  
+Rendering Frame 37 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 37 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 37 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 37 of View 1   (BaseView)  
+Copied    Frame 38 of View 9   (BaseView)  
+Rendering Frame 38 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 38 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 38 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 38 of View 5   (BaseView)  
+Rendering Frame 38 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 38 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 38 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 38 of View 1   (BaseView)  
+Copied    Frame 39 of View 9   (BaseView)  
+Rendering Frame 39 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 39 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 39 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 39 of View 5   (BaseView)  
+Rendering Frame 39 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 39 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 39 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 39 of View 1   (BaseView)  
+Copied    Frame 40 of View 9   (BaseView)  
+Rendering Frame 40 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 40 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 40 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 40 of View 5   (BaseView)  
+Rendering Frame 40 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 40 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 40 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 40 of View 1   (BaseView)  
+Copied    Frame 41 of View 9   (BaseView)  
+Rendering Frame 41 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 41 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 41 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 41 of View 5   (BaseView)  
+Rendering Frame 41 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 41 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 41 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 41 of View 1   (BaseView)  
+Copied    Frame 42 of View 9   (BaseView)  
+Rendering Frame 42 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 42 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 42 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 42 of View 5   (BaseView)  
+Rendering Frame 42 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 42 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 42 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 42 of View 1   (BaseView)  
+Copied    Frame 43 of View 9   (BaseView)  
+Rendering Frame 43 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 43 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 43 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 43 of View 5   (BaseView)  
+Rendering Frame 43 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 43 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 43 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 43 of View 1   (BaseView)  
+Copied    Frame 44 of View 9   (BaseView)  
+Rendering Frame 44 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 44 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 44 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 44 of View 5   (BaseView)  
+Rendering Frame 44 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 44 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 44 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 44 of View 1   (BaseView)  
+Copied    Frame 45 of View 9   (BaseView)  
+Rendering Frame 45 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 45 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 45 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 45 of View 5   (BaseView)  
+Rendering Frame 45 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 45 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 45 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 45 of View 1   (BaseView)  
+Copied    Frame 46 of View 9   (BaseView)  
+Rendering Frame 46 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 46 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 46 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 46 of View 5   (BaseView)  
+Rendering Frame 46 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 46 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 46 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 46 of View 1   (BaseView)  
+Copied    Frame 47 of View 9   (BaseView)  
+Rendering Frame 47 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 47 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 47 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 47 of View 5   (BaseView)  
+Rendering Frame 47 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 47 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 47 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 47 of View 1   (BaseView)  
+Copied    Frame 48 of View 9   (BaseView)  
+Rendering Frame 48 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 48 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 48 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 48 of View 5   (BaseView)  
+Rendering Frame 48 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 48 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 48 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 48 of View 1   (BaseView)  
+Copied    Frame 49 of View 9   (BaseView)  
+Rendering Frame 49 of View 8   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 49 of View 7   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Rendering Frame 49 of View 6   Left BaseView: 9   Right BaseView: 5   BlendMode: 0
+Copied    Frame 49 of View 5   (BaseView)  
+Rendering Frame 49 of View 4   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 49 of View 3   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Rendering Frame 49 of View 2   Left BaseView: 5   Right BaseView: 1   BlendMode: 0
+Copied    Frame 49 of View 1   (BaseView)  
+
+ Total Time:       80.671 sec.
