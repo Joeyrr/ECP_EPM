@@ -31,8 +31,8 @@ The `myCfg` file folder contains the configurations of the sequences and codec.
 The `source` file folder contains the source code of our codec, you can build this project and get the `TAppEncoder.exe` to run our method. Lots of custom macro definitions in the source code to control the codec and some of them are deprecated which make the source code hard to read. We are sorry about that and we will clean up the redundant codes soon.
 
 In order to facilitate the verification of the coding performance. The executable codecs are provided directly.
-The `TAppEncoder_ECP_EPM.exe` is the encoder with our ECP+EPM algorithm.
-The `TAppEncoder_ECP.exe` is the encoder with our ECP only algorithm.
-The `TAppEncoder_EPM.exe` is the encoder with our EPM only algorithm.
-The `TAppEncoder_statistic.exe` is the encoder with our ECP+EPM algorithm which can also export the coding results to analysis.
++ The `TAppEncoder_ECP_EPM.exe` is the encoder with our ECP+EPM algorithm.
++ The `TAppEncoder_ECP.exe` is the encoder with our ECP only algorithm.
++ The `TAppEncoder_EPM.exe` is the encoder with our EPM only algorithm.
++ The `TAppEncoder_statistic.exe` is the encoder with our ECP+EPM algorithm which can also export the coding results to analysis.
 The coding result evaluated on our computer can be found in `CTC/results2excel` file folder.
